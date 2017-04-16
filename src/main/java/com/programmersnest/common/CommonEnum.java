@@ -3,10 +3,7 @@
  */
 package com.programmersnest.common;
 
-/**
- * @author Harmeet Singh(Taara)
- * @version 1.0
- */
+
 public class CommonEnum {
 
 	public enum PERMSSION{
